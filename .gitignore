@@ -1,0 +1,13 @@
+*.pyc
+*.settings
+dev.settings
+test.settings
+test.env
+/.pytest_cache/
+.coverage
+/htmlcov/
+praw.ini
+.vscode/
+.idea
+.DS_STORE
+
